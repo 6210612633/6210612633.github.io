@@ -8,4 +8,4 @@
 
 <img src="me.jpg"  width="500"/>
 
-##### --> [my info page](6210612633.github.io)
+##### [my info page](6210612633.github.io)
